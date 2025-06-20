@@ -1,10 +1,9 @@
 import "./App.css";
-import RegistrationForm from "./assets/components/RegistrationForm/RegistrationFrom";
-
+import LoginForm from "./assets/LoginForm/LoginForm";
 function App() {
   return (
     <>
-      <RegistrationForm />
+      <LoginForm />
     </>
   );
 }
